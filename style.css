@@ -18,7 +18,7 @@ html {
 }
 body {
   height: 100dvh;
-  background-image: url(/images/bg-desktop.svg);
+  background-image: url(./images/bg-desktop.svg);
   font-family: "Open Sans";
   background-color: var(--color-violet);
   background-size: 100%;
